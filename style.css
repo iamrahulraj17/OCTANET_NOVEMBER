@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.first{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(0, 0, 0);
+}
+
+.second{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(20, 20, 20);
+}
+
+.third{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(40, 40, 40);
+}
+
+.forth{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(60, 60, 60);
+}
+
+.fifth{
+    width: 100%;
+    height: 50vh;
+    background-color: rgb(80, 80, 80);
+}
